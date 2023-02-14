@@ -24,16 +24,14 @@
 ## 📟 GitHub Stats
 
 <div align="center">
-	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=onoseremejohn&show_icons=true&theme=vue" />
-	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=onoseremejohn&theme=vue" />
-    <img width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
+	<img src="https://github-readme-stats.vercel.app/api?username=onoseremejohn&show_icons=true&theme=vue" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=onoseremejohn&theme=vue" />
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
 </div>
 
 ### ✍️Random Dev Quote
 
-<p align="center" width="90%">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-</p>
 
 <div align="center">
 
