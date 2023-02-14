@@ -24,9 +24,10 @@
 ## 📟 GitHub Stats
 
 <div>
+	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
 	<img src="https://github-readme-stats.vercel.app/api?username=onoseremejohn&show_icons=true&theme=vue" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=onoseremejohn&theme=vue" />
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
+   
 </div>
 
 ### ✍️Random Dev Quote
