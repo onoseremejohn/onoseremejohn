@@ -29,5 +29,15 @@
 </p>
 
 <p align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
+<img width="100%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
 </p>
+
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
