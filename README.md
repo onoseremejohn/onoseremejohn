@@ -27,3 +27,7 @@
 	<img width="100%" src="https://github-readme-stats.vercel.app/api?username=onoseremejohn&show_icons=true&theme=vue" />
 	<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=onoseremejohn&theme=vue" />
 </p>
+
+<p align='center'>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
+</p>
