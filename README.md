@@ -11,7 +11,7 @@
 - 🌱 I’m about to start learning NodeJS.
 - 📫 How to reach me: eonosereme@gmail.com **Check social links below** 👇.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- ⚡ Fun fact: I love listening to music.
 
 ## 🌐 Socials
 
