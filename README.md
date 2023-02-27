@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 
-- 🔭 I’m currently learning ReactJS.
+- 🔭 I’m currently learning TypeScript.
 - 🌱 I’m about to start learning NodeJS.
 - 📫 How to reach me: eonosereme@gmail.com **Check social links below** 👇.
 - 😄 Pronouns: He/His
