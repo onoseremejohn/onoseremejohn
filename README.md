@@ -7,8 +7,8 @@
 
 # 💫 About Me :
 
-- 🔭 I’m currently learning TypeScript.
-- 🌱 I’m about to start learning NodeJS.
+- 🔭 I’m currently learning NodeJS.
+- 🌱 I’m will soon learn MongoDB, PostgreSQL, NextJS, React Native.
 - 📫 How to reach me: eonosereme@gmail.com **Check social links below** 👇.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love listening to music.
