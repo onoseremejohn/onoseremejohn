@@ -1,14 +1,14 @@
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Onosereme</h1>
+         width="45" />I'm Onosereme</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onoseremejohn&label=Views&color=blue&style=plastic&style=for-the-badge" alt="onoseremejohn" /> </p>
 
 # 💫 About Me :
 
 - 🔭 I’m currently learning NodeJS and ExpressJS.
-- 🌱 I’m will soon learn MongoDB, PostgreSQL, NextJS, React Native.
+- 🌱 I’m will soon learn NextJS and AWS.
 - 📫 How to reach me: eonosereme@gmail.com **Check social links below** 👇.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love listening to music.
