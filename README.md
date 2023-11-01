@@ -7,8 +7,8 @@
 
 # 💫 About Me :
 
-- 🔭 I’m currently learning NodeJS and ExpressJS.
-- 🌱 I’m will soon learn NextJS and AWS.
+- 🔭 I’m currently learning MONGODB.
+- 🌱 I will soon learn NextJS and AWS.
 - 📫 How to reach me: eonosereme@gmail.com **Check social links below** 👇.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love listening to music.
