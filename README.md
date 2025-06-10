@@ -7,15 +7,12 @@
 
 # 💫 About Me :
 
-- 🔭 I’m currently learning MONGODB.
-- 🌱 I will soon learn NextJS and AWS.
+- 🔭 Front end developer moving into web3.
 - 📫 How to reach me: eonosereme@gmail.com **Check social links below** 👇.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love listening to music.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onosereme-emuemhonjie-5a5454161) [![Twitter](https://img.shields.io/twitter/follow/onoseremejohn?logo=Twitter&style=for-the-badge)](https://twitter.com/onoseremejohn) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onoseremejohn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onoseremejohn) [![Twitter](https://img.shields.io/twitter/follow/onoseremejohn?logo=Twitter&style=for-the-badge)](https://twitter.com/onoseremejohn)
 
 ## 💻 Tech Stack
 
@@ -25,8 +22,8 @@
 
 <div>
 	 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=onoseremejohn&hide=&theme=vue">
-	<img src="https://github-readme-stats.vercel.app/api?username=onoseremejohn&show_icons=true&theme=vue" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=onoseremejohn&theme=vue" />
+	<!-- <img src="https://github-readme-stats.vercel.app/api?username=onoseremejohn&show_icons=true&theme=vue" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=onoseremejohn&theme=vue" /> -->
    
 </div>
 
